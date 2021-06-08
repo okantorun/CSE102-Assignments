@@ -19,9 +19,3 @@ Assignment  | Language | Description
 
 ## Course Details
 - https://abl.gtu.edu.tr/ects/?duzey=ucuncu&modul=ders_bilgi_formu&dno=B%C4%B0L%20102&tip=lisans&bolum=104&dil=en
-
-## Hex Game
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hex-board-11x11-%282%29.jpg">
-</p>
-<h2 align="center">Blue won</h2>
