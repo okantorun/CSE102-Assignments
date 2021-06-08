@@ -14,6 +14,8 @@ Assignment  | Language | Description
 [HW10](https://github.com/okantorun/CSE102-Assignments/tree/main/HW10)  | C | Understanding Structs using Geometry ,perform desired tasks using two-dimensional geometric shapes
 [HW11](https://github.com/okantorun/CSE102-Assignments/tree/main/HW11)  | C | Comparing efficiency in linked list and dynamic array by reading very long number in given txt file
 
+## Purpose of the course
+- Content of this course comprises of Introduction to C programming, Control Structures, Functions and Arrays, Pointers and Strings, Input Output, Structures, File processing, The preprocessor, Data Structures, Advanced topics.
 
 ## Course Details
 - https://abl.gtu.edu.tr/ects/?duzey=ucuncu&modul=ders_bilgi_formu&dno=B%C4%B0L%20102&tip=lisans&bolum=104&dil=en
