@@ -13,3 +13,7 @@ Assignment  | Language | Description
 [HW9](https://github.com/okantorun/CSE102-Assignments/tree/main/HW9)  | C | __Part 1:__ Recursion problems __Part2:__ COVİD-19 Health Coverage with struct and recursion __Part3:__ Card game with struct
 [HW10](https://github.com/okantorun/CSE102-Assignments/tree/main/HW10)  | C | Understanding Structs using Geometry ,perform desired tasks using two-dimensional geometric shapes
 [HW11](https://github.com/okantorun/CSE102-Assignments/tree/main/HW11)  | C | Comparing efficiency in linked list and dynamic array by reading very long number in given txt file
+
+
+## Course Details
+- https://abl.gtu.edu.tr/ects/?duzey=ucuncu&modul=ders_bilgi_formu&dno=B%C4%B0L%20102&tip=lisans&bolum=104&dil=en
